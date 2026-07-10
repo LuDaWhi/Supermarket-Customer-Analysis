@@ -3,6 +3,11 @@ Exploratory data analysis project using Excel, Tableau, and SQL to clean and pre
 
 ---
 
+## 📌 Executive Summary
+Insert here...
+
+---
+
 ## 📁 Project Files
 - `marketing_data.csv` — Original dataset  
 - `ad_data.csv` — Original dataset  
@@ -13,11 +18,6 @@ Exploratory data analysis project using Excel, Tableau, and SQL to clean and pre
 - `Query - Social Media Ad Efficiency by Country.sql` — SQL script for exploratory analysis  
 - `Charts and Dashboards.twbx` — Tableau charts and dashboards for stakeholder presentation  
 - `Technical Report and Insights.pdf` — Business problem, methodology, insights, and recommendations  
-
----
-
-## 📌 Executive Summary
-Insert here...
 
 ---
 
