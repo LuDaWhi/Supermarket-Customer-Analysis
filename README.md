@@ -47,7 +47,7 @@ This project analyses customer purchasing behaviour at 2Market to identify their
 
 The five largest customer segments, which also account for the five highest total spends, are detailed below:
 
-<img width="1265" height="663" alt="image" src="https://github.com/user-attachments/assets/b648ca51-af4a-430a-a750-41f5c28f0c6b" />
+<img width="1265" height="663" alt="image" src="https://github.com/user-attachments/assets/c77bb5ad-2035-4dba-8228-5510eeb05f57" />
 
 This is useful for 2Market because understanding who most of their customers are, where most of their sales revenue comes from, and how reliant they are on any one segment can help inform decisions about which customer groups to retain and grow.
 
@@ -57,7 +57,7 @@ This is useful for 2Market because understanding who most of their customers are
 
 Liquor accounts for 50% of sales revenue and meat accounts for 28%, meaning more than three‑quarters of 2Market’s sales are tied to these products. Furthermore, every customer segment spends most of their money on liquor, followed by meat.
 
-<img width="1236" height="648" alt="image" src="https://github.com/user-attachments/assets/d0eb39f9-bbc5-456f-a773-73c6cc701b5d" />
+<img width="1236" height="648" alt="image" src="https://github.com/user-attachments/assets/7bf91a75-081b-4f47-bf47-0282765e66eb" />
 
 This is useful for 2Market because knowing which products generate the most sales revenue can help inform decisions such as which products to promote, or how to reduce risk by increasing sales of other product categories.
 
@@ -67,11 +67,11 @@ This is useful for 2Market because knowing which products generate the most sale
 
 Customers aged 40–49 generated the highest total sales revenue. However, customers aged 60–69 spent the most on average per customer.
 
-<img width="1318" height="689" alt="image" src="https://github.com/user-attachments/assets/ffe1aa9d-4d0b-4fb2-af17-1b65a1a3f6a6" />
+<img width="1318" height="689" alt="image" src="https://github.com/user-attachments/assets/ab5df65d-5f02-46b8-81fa-c0a632caefea" />
 
 By filtering the data by product category, we can also see that customers aged 60–69 spent the most on commodities, fish, and liquor, while customers aged 20–29 spent the most on chocolate, meat, and vegetables.
 
-<img width="1041" height="544" alt="image" src="https://github.com/user-attachments/assets/9d3db930-2b36-43cc-b25f-169993c926ab" />
+<img width="1041" height="544" alt="image" src="https://github.com/user-attachments/assets/0d455412-0489-4fad-bfac-2bf54b9e1151" />
 
 This insight can help 2Market target specific product promotions to specific customer segments via the advertising channels most likely to reach them, increasing customer engagement and sales revenue.
 
