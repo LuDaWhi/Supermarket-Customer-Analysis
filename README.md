@@ -1,7 +1,5 @@
 # 🛒 Analysing Customer Purchasing Behaviour for a Global Supermarket
 
----
-
 ## 📌 Executive Summary
 This project analyses customer purchasing behaviour at 2Market to identify their most valuable customer segments, bestselling product categories, and the advertising channels that generate the strongest engagement. The findings reveal distinct demographic patterns in advertising responsiveness, with Instagram ads being most effective for customers aged 20–29 and Twitter (X) ads performing best with customers aged 60–69. Based on these insights, the project recommends aligning product promotions with the advertising channels most effective for each demographic—for example, promoting chocolate, meat, and vegetables via Instagram for younger customers, and commodities, fish, and liquor via Twitter for older customers.
 
