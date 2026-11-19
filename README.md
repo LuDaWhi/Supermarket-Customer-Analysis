@@ -1,5 +1,4 @@
 # 🛒 Analysing Customer Purchasing Behaviour for a Global Supermarket
-Exploratory data analysis project using Excel, SQL, and Tableau to clean, prepare, analyse, and visualise insights into customer demographics, bestselling products, and advertising effectiveness.
 
 ---
 
